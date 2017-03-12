@@ -1,0 +1,24 @@
+body {
+	background-color: #eee;
+}
+
+.contact {
+	background-color: #fff;
+	margin-top: 30rem;
+
+	padding: 3rem;
+
+	color: #444;
+	font-family: "Anonymous Pro", monospace;
+	font-size: 2rem;
+}
+
+.dj {
+	text-decoration: none;
+}
+.dj .red {
+	color: rgb(203, 0, 0)
+}
+.dj .yellow {
+	color: rgb(255, 167, 37)
+}
