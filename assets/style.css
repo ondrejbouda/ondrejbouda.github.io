@@ -2,19 +2,35 @@ body {
 	background-color: #eee;
 }
 
+.logo {
+	background-color: #fff;
+	padding: 3rem;
+	margin: 1rem;
+}
+
+.logo img {
+	width: 100%;
+	margin: 0;
+}
+
 .contact {
 	background-color: #fff;
-	margin-top: 5rem;
 
+	min-height: 29rem;
 	padding: 3rem;
+	margin: 1rem;
 
 	color: #444;
 	font-family: "Anonymous Pro", monospace;
 	font-size: 2rem;
 }
 
+.container {
+	margin-top: 5rem;
+}
+
 @media (min-width: 1100px) {
-	.contact {
+	.container {
 		margin-top: 30rem;
 	}
 }
